@@ -21,7 +21,7 @@ body{
 }
 .header{
   background-color: maroon;
-  box-shadow: 0 5px 6px -6px black;
+  box-shadow: 0 5px 6px -6px rgb(44, 44, 44);
 }
 .header .ccmb-logo{
   width: 20%;
